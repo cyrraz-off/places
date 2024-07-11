@@ -1,6 +1,17 @@
 # places
 
-| City | Name | Type | Specs |
-| --- | --- | --- | --- |
-| Toyko | 2foods | restaurant | vegan |
-| Toyko | Shichigosan | restaurant | okonomiyaki |
+| Location | Name                      | Type             | Specs           |
+| -------- | ------------------------- | ---------------- | --------------- |
+| Toyko    | 2foods                    | restaurant       | vegan           |
+| Toyko    | Shichigosan               | restaurant       | okonomiyaki     |
+| Tokyo    | Men Mitsui                | restaurant       | ramen           |
+| Tokyo    | 3wood                     | bar              | cocktails       |
+| Tokyo    | Meikyoku Kissa Lion       | cafe             | classical music |
+| Japan    | Ippudo                    | restaurant chain | ramen           |
+| München  | Wirtshaus Zum Straubinger | restaurant       | german          |
+| Japan    | Kamakura                  | city             |                 |
+| Lausanne | Barbare                   | bar              |                 |
+| Lausanne | Satellite                 | bar              | student         |
+| Kyoto    | Piece Hostel Sanjo        | hostel           |                 |
+| Sion     | Grenette                  | bar              | left            |
+| Sion     | Médiathèque               | library          |                 |
