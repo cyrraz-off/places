@@ -11,6 +11,8 @@
 | München  | Wirtshaus Zum Straubinger | restaurant       | german          |
 | Japan    | Kamakura                  | city             |                 |
 | Lausanne | Barbare                   | bar              |                 |
+| Lausanne | Le Montriond              | bar              | terrace         |
+| Lausanne | The Great Escape          | bar              | terrace         |
 | Lausanne | Satellite                 | bar              | student         |
 | Kyoto    | Piece Hostel Sanjo        | hostel           |                 |
 | Sion     | Grenette                  | bar              | left            |
