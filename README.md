@@ -7,6 +7,7 @@
 | Tokyo    | Men Mitsui                | restaurant       | ramen           |
 | Tokyo    | 3wood                     | bar              | cocktails       |
 | Tokyo    | Meikyoku Kissa Lion       | cafe             | classical music |
+| Tokyo    | Ebisu Omitei Okuza        | restaurant       | yakiniku        |
 | Japan    | Ippudo                    | restaurant chain | ramen           |
 | München  | Wirtshaus Zum Straubinger | restaurant       | german          |
 | Japan    | Kamakura                  | city             |                 |
