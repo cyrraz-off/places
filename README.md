@@ -24,3 +24,4 @@
 | Kyoto    | Saryo Tsujiri Tea House     | tea shop         | ice cream             |
 | Tokyo    | Kakekomi Gyoza              | restaurant       | gyoza (vegan options) |
 | Tokyo    | Moja in the House           | restaurant       | cozy                  |
+| Lausanne | HumuS                       | book shop        | singular              |
