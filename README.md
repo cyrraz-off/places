@@ -30,3 +30,4 @@
 | Nikkō    | Lake Chūzenji                | lake             |                       |
 | Tokyo    | bistro rojiura               | cafe             |                       |
 | Tokyo    | L'Antica Pizzeria da Michele | restaurant       | pizza                 |
+| Tokyo    | T’s Tantan                   | restaurant chain | vegan ramen and gyoza |
