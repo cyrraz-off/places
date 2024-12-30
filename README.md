@@ -16,6 +16,7 @@
 | Lausanne | HumuS                        | book shop        | singular              |
 | München  | Wirtshaus Zum Straubinger    | restaurant       | german                |
 | Nikkō    | Lake Chūzenji                | lake             |                       |
+| Niigata  | Yuzawa                       | city             | onsen                 |
 | Sion     | Grenette                     | bar              | left                  |
 | Sion     | Médiathèque                  | library          |                       |
 | Toyko    | 2foods                       | restaurant       | vegan                 |
