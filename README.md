@@ -31,5 +31,6 @@
 | Tokyo    | Benitsuru                    | restaurant       | pancakes              |
 | Tokyo    | bistro rojiura               | cafe             |                       |
 | Tokyo    | L'Antica Pizzeria da Michele | restaurant       | pizza                 |
+| Tokyo    | Au temps jadis               | restaurant       | crêpes                |
 | Tokyo    | T’s Tantan                   | restaurant chain | vegan ramen and gyoza |
 | Tseuzier | Lac de Tseuzier              | lake             | dam                   |
