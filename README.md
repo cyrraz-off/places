@@ -15,6 +15,7 @@
 | Lausanne | Satellite                    | bar              | student               |
 | Lausanne | HumuS                        | book shop        | singular              |
 | München  | Wirtshaus Zum Straubinger    | restaurant       | german                |
+| Nagoya   | Meiji Mura                   | museum           | open-air              |
 | Nikkō    | Lake Chūzenji                | lake             |                       |
 | Niigata  | Yuzawa                       | city             | onsen                 |
 | Sion     | Grenette                     | bar              | left                  |
@@ -33,4 +34,5 @@
 | Tokyo    | L'Antica Pizzeria da Michele | restaurant       | pizza                 |
 | Tokyo    | Au temps jadis               | restaurant       | crêpes                |
 | Tokyo    | T’s Tantan                   | restaurant chain | vegan ramen and gyoza |
+| Tokyo    | Izu-Ōshima                   | island           | Cinnabar              |
 | Tseuzier | Lac de Tseuzier              | lake             | dam                   |
