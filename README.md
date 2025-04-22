@@ -2,6 +2,7 @@
 
 | Location | Name                         | Type             | Specs                 |
 | -------- | ---------------------------- | ---------------- | --------------------- |
+| Japan    | Atami                        | city             | onsen                 |
 | Japan    | Ippudo                       | restaurant chain | ramen                 |
 | Japan    | Kusatsu                      | city             | onsen                 |
 | Japan    | Kamakura                     | city             |                       |
