@@ -2,10 +2,9 @@
 
 | Location | Name                         | Type             | Specs                 |
 | -------- | ---------------------------- | ---------------- | --------------------- |
-| Japan    | Atami                        | city             | onsen                 |
+| Gunma    | Kusatsu                      | city             | onsen                 |
 | Japan    | Ippudo                       | restaurant chain | ramen                 |
-| Japan    | Kusatsu                      | city             | onsen                 |
-| Japan    | Kamakura                     | city             |                       |
+| Kanagawa | Kamakura                     | city             |                       |
 | Kyoto    | Gyoza Hohei                  | restaurant       | gyoza                 |
 | Kyoto    | Ichiba Koji JR Kyoto Isetan  | restaurant       | view                  |
 | Kyoto    | Saryo Tsujiri Tea House      | tea shop         | ice cream             |
@@ -19,6 +18,7 @@
 | Nagoya   | Meiji Mura                   | museum           | open-air              |
 | Nikkō    | Lake Chūzenji                | lake             |                       |
 | Niigata  | Yuzawa                       | city             | onsen                 |
+| Shizuoka | Atami                        | city             | onsen                 |
 | Sion     | Grenette                     | bar              | left                  |
 | Sion     | Médiathèque                  | library          |                       |
 | Toyko    | 2foods                       | restaurant       | vegan                 |
