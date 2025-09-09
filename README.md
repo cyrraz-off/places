@@ -2,7 +2,7 @@
 
 | Location | Name                         | Type             | Specs                 |
 | -------- | ---------------------------- | ---------------- | --------------------- |
-| Boll     | Jumi                         | Cheese shop      |
+| Boll     | Jumi                         | cheese shop      |
 | Gunma    | Kusatsu                      | city             | onsen                 |
 | Japan    | Ippudo                       | restaurant chain | ramen                 |
 | Kanagawa | Kamakura                     | city             |                       |
