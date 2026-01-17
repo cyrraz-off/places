@@ -2,7 +2,8 @@
 
 | Location | Name                         | Type             | Specs                 |
 | -------- | ---------------------------- | ---------------- | --------------------- |
-| Boll     | Jumi                         | cheese shop      |
+| Boll     | Jumi                         | cheese shop      |                       |
+| Conthey  | Grand Bleu                   | restaurant       | greek                 |
 | Gunma    | Kusatsu                      | city             | onsen                 |
 | Japan    | Ippudo                       | restaurant chain | ramen                 |
 | Kanagawa | Kamakura                     | city             |                       |
@@ -10,6 +11,7 @@
 | Kyoto    | Ichiba Koji JR Kyoto Isetan  | restaurant       | view                  |
 | Kyoto    | Saryo Tsujiri Tea House      | tea shop         | ice cream             |
 | Kyoto    | Piece Hostel Sanjo           | hostel           |                       |
+| Lausanne | A côté de la plaque          | tea room         | tchaï                 |
 | Lausanne | Barbare                      | bar              |                       |
 | Lausanne | Le Montriond                 | bar              | terrace               |
 | Lausanne | The Great Escape             | bar              | terrace               |
