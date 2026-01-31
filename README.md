@@ -4,6 +4,7 @@
 | ---------- | ---------------------------- | ---------------- | --------------------- |
 | Boll       | Jumi                         | cheese shop      |                       |
 | Conthey    | Grand Bleu                   | restaurant       | greek                 |
+| Dresden    | Vcake                        | cafe             | vegan                 |
 | Gunma      | Kusatsu                      | city             | onsen                 |
 | Japan      | Ippudo                       | restaurant chain | ramen                 |
 | Kanagawa   | Kamakura                     | city             |                       |
